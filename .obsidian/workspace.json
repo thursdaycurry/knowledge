@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "690c34190733dfd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a5ff93ba2adc6f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5296caedf58c97ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming-language/coding-test/backjoon/c/backjoon-1001-c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94fb29b4de0a9260",
+    "type": "split",
+    "children": [
+      {
+        "id": "2977d97ee1d45467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e06afc2d6d33b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "471b3d61c5bca587",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "857fd8804a882717",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79aa938a5a68f8a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc33a325a4ce7ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741987c9a7940007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming-language/coding-test/backjoon/c/backjoon-1001-c.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "546623d1f0335a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming-language/coding-test/backjoon/c/backjoon-1001-c.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c26fcba4bd077f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5fa6bb3e8b7584a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming-language/coding-test/backjoon/c/backjoon-1001-c.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5296caedf58c97ec",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "programming-language/coding-test/backjoon/c/backjoon-1001-c.md",
+    "programming-language/coding-test/backjoon/c",
+    "programming-language/coding-test/backjoon",
+    "programming-language",
+    "coding-test/Untitled.md",
+    "programming-language/coding-test",
+    "programming-language/c"
+  ]
+}
